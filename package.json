@@ -1,0 +1,15 @@
+{
+  "name": "feishu-sidebarplugin-homepagedata",
+  "version": "20251115",
+  "description": "飞书主页链接插件 - 抖音主页数据获取工具",
+  "output": "dist",
+  "main": "index.html",
+  "keywords": [
+    "feishu",
+    "plugin",
+    "douyin",
+    "data"
+  ],
+  "author": "DockerApp Team",
+  "license": "ISC"
+}
