@@ -3,7 +3,7 @@
 ## 版本信息
 - 版本号: 20251115
 - 构建时间: 2025/11/16 01:39:25
-- API地址: https://www.ccai.fun
+- API地址: https://www.ccailab.top
 
 ## 功能特性
 

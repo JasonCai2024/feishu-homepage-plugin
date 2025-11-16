@@ -3,7 +3,7 @@
 ## ✅ 发布前检查
 
 - [ ] 代码已通过测试
-- [ ] 环境变量配置正确 (`VITE_API_BASE_URL=https://www.ccai.fun`)
+- [ ] 环境变量配置正确 (`VITE_API_BASE_URL=https://www.ccailab.top`)
 - [ ] 构建文件完整生成
 - [ ] 功能测试通过
 - [ ] 国际化文本正确
