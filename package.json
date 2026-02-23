@@ -1,0 +1,7 @@
+{
+  "name": "feishu-sidebarplugin-homepagedata",
+  "version": "20260223",
+  "description": "飞书主页链接插件",
+  "output": "dist",
+  "main": "index.html"
+}
