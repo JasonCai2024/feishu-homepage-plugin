@@ -1,6 +1,6 @@
 {
   "name": "抖音主页数据收集插件",
-  "version": "20260406",
+  "version": "20260614",
   "description": "从抖音主页分享链接批量获取视频数据、文案内容和视频摘要的专业工具",
   "author": "DockerApp Team",
   "homepage": "https://www.ccailab.top",
@@ -10,7 +10,7 @@
   ],
   "main": "index.html",
   "apiBaseUrl": "https://www.ccailab.top",
-  "buildTime": "2026-04-06T15:21:14.957Z",
+  "buildTime": "2026-06-14T15:14:42.802Z",
   "features": [
     "主页数据获取",
     "视频文案提取",
