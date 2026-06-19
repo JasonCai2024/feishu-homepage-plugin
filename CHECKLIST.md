@@ -1,34 +1,14 @@
-# 飞书插件发布检查清单
+# Feishu Release Checklist
 
-## ✅ 发布前检查
+## Before Submit
+- [ ] Build completed successfully
+- [ ] dist/index.html exists
+- [ ] dist/index.js exists
+- [ ] dist/index.css exists
+- [ ] manifest.json points to dist/index.html
+- [ ] No source code or node_modules are included
 
-- [ ] 代码已通过测试
-- [ ] 环境变量配置正确 (`VITE_API_BASE_URL=https://www.ccailab.top`)
-- [ ] 构建文件完整生成
-- [ ] 功能测试通过
-- [ ] 国际化文本正确
-- [ ] 安全检查通过
-
-## 📦 发布文件
-
-- `dist/index.html` - 插件入口文件
-- `dist/index.js` - 插件脚本
-- `dist/index.css` - 插件样式
-- `dist/favicon.svg` - 插件图标
-- `manifest.json` - 插件配置清单
-- `README.md` - 插件使用文档
-- `VERSION` - 版本标识文件
-- `package.json` - 飞书发布配置文件
-
-## 🚀 发布步骤
-
-1. 确认所有检查项目
-2. 提交代码到主仓库
-3. 创建GitHub Release
-4. 提交到飞书插件中心审核
-
-## 📝 版本信息
-
-- 当前版本: 20260618
-- 发布时间: 2026/6/18 22:43:30
-- 构建环境: 飞书插件中心发布版本
+## Release Info
+- Version: 20260619
+- Build time: 2026/6/19 16:58:44
+- Entry: dist/index.html

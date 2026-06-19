@@ -1,54 +1,17 @@
-# 抖音主页数据收集插件
+# Douyin Creator Homepage Video Subscription
 
-## 版本信息
-- 版本号: 20260618
-- 构建时间: 2026/6/18 22:43:30
-- API地址: https://www.ccailab.top
+## Version
+- Version: 20260619
+- Build time: 2026/6/19 16:58:43
+- API base URL: https://www.ccailab.top
 
-## 功能特性
+## Features
+- Collect Douyin creator homepage video data
+- Extract video captions in batch
+- Generate video summaries in batch
+- Manage creator subscriptions
+- Export data from Feishu Base
 
-### 🎯 数据获取
-- 从抖音主页分享链接批量获取视频信息
-- 支持增量更新和分页处理
-
-### 📝 文案处理
-- 获取视频原始文案（ASR语音转文本）
-- 使用AI智能体整理和优化文案内容
-
-### 📋 摘要生成
-- 基于视频文案生成AI摘要
-- 批量处理多个视频摘要
-
-### 🔄 博主订阅
-- 订阅博主新发布视频
-- 定时监控和通知推送
-- 支持订阅管理（查询、创建、删除、调试）
-
-### 📊 数据导出
-- 支持Excel格式导出
-- 完整的数据收集和管理解决方案
-
-## 使用说明
-
-1. 在飞书多维表格中安装此插件
-2. 配置ServiceHub用户认证信息
-3. 输入抖音主页分享链接
-4. 选择需要的功能模块进行数据获取
-5. 查看结果并导出数据
-
-## 技术架构
-
-- 前端: React 18.2.0 + TypeScript + Ant Design
-- 飞书集成: @lark-base-open/js-sdk
-- 后端服务: ServiceHub API + DockerApp架构
-- 国际化: 支持中文、英文、日文
-
-## 安全说明
-
-- 所有数据传输通过HTTPS加密
-- 用户认证信息仅用于API调用
-- 不存储用户敏感信息
-
-## 支持与反馈
-
-如有问题或建议，请联系开发团队。
+## Publish Notes
+- Plugin entry: dist/index.html
+- Submit the whole release package together with the dist directory
