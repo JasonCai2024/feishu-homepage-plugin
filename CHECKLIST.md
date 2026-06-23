@@ -9,6 +9,6 @@
 - [ ] No source code or node_modules are included
 
 ## Release Info
-- Version: 20260619
-- Build time: 2026/6/19 17:14:20
+- Version: 20260623
+- Build time: 2026/6/24 07:23:56
 - Entry: dist/index.html

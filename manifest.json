@@ -1,6 +1,6 @@
 {
   "name": "Douyin Creator Homepage Video Subscription",
-  "version": "20260619",
+  "version": "20260623",
   "description": "Collect Douyin creator homepage video data, extract video captions, and generate summaries in Feishu Base.",
   "author": "ccailab",
   "homepage": "https://www.ccailab.top",
@@ -9,7 +9,7 @@
   ],
   "main": "dist/index.html",
   "apiBaseUrl": "https://www.ccailab.top",
-  "buildTime": "2026-06-19T09:14:20.559Z",
+  "buildTime": "2026-06-23T23:23:56.597Z",
   "features": [
     "Homepage video data collection",
     "Video caption extraction",
