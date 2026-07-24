@@ -1,8 +1,8 @@
 # Douyin Creator Homepage Video Subscription
 
 ## Version
-- Version: 20260713
-- Build time: 2026/7/13 22:24:09
+- Version: 20260724
+- Build time: 2026/7/24 22:43:14
 - API base URL: https://www.ccailab.top
 
 ## Features

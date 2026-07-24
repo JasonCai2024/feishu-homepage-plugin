@@ -1,6 +1,6 @@
 {
   "name": "feishu-sidebarplugin-homepagedata",
-  "version": "20260713",
+  "version": "20260724",
   "description": "Collect Douyin creator homepage video data, extract video captions, and generate summaries in Feishu Base.",
   "output": "dist",
   "main": "dist/index.html",
